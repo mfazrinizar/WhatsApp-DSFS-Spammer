@@ -1,16 +1,11 @@
 <?php
 
-clear
-toilet -f bigmono9 -F gay DSFS SPAM
-sleep 1
-echo "\033[38;1m ------------------------------------------------------------------"|lolcat
-echo "\033[31;1m *D4RK SYST3M F41LUR3 S33K3R (DSFS)*"
-echo "\033[36;1m Creator : Anon6372098"
-echo "\033[36;1m Thanks to : Tuan c4rt00nw4r"
-echo "\033[32;1m Yt Channel : D4RK SYST3M F41LUR3 S33K3R"
-echo "\033[38;1m ------------------------------------------------------------------"|lolcat
-
-date|lolcat
+echo "Creator   : Anon6372098\n\n";
+echo "You Tube  : https://www.youtube.com/channel/UC6z-i5NX934RvX7BWr3MlJw (D4RK SYST3M F41LUR3 S33K3R)\n\n";
+echo "Github    : https://github.com/Anon6372098\n\n";
+echo "Email     : anon6372098@gmail.com\n\n";
+echo "Team.     : D4RK SYST3M F41LUR3 S33K3R (DSFS)\n\n";
+echo "Thanks to : Tuan c4rt00nw4r\n\n";
 
 echo "Nomor Target?\nInput : ";
 $nomer = trim(fgets(STDIN));
