@@ -1,10 +1,10 @@
 <?php
 
-echo "Creator   : Anon6372098";
-echo "You Tube  : https://www.youtube.com/channel/UC6z-i5NX934RvX7BWr3MlJw (D4RK SYST3M F41LUR3 S33K3R)";
-echo "Github    : https://github.com/Anon6372098";
-echo "Email     : anon6372098@gmail.com";
-echo "Team      : D4RK SYST3M F41LUR3 S33K3R (DSFS)";
+echo "Creator   : Anon6372098\n";
+echo "You Tube  : https://www.youtube.com/channel/UC6z-i5NX934RvX7BWr3MlJw (D4RK SYST3M F41LUR3 S33K3R)\n";
+echo "Github    : https://github.com/Anon6372098\n";
+echo "Email     : anon6372098@gmail.com\n";
+echo "Team      : D4RK SYST3M F41LUR3 S33K3R (DSFS)\n";
 echo "Thanks to : Tuan c4rt00nw4r\n\n";
 
 echo "Nomor Target?\nInput : ";
